@@ -9,7 +9,6 @@ Welcome to this Python web scraping demonstration project on [scrapethissite.com
 - Data extraction from pages using **frames** and **iframes**
 - Scraping of **AJAX**-loaded content
 - Automatic saving of results in **JSON** format
-- Educational scripts, easy to adapt for other uses
 
 ---
 
